@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/zenkaitheme"]
+	path = wp-content/themes/zenkaitheme
+	url = git@github.com:Akihisv/zenkaitheme.git
